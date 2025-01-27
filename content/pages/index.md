@@ -17,9 +17,11 @@ sections:
       Akhlaq Ahmad, I’m a developer, digital GURU, consultant and a bunch of
       other impressive titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am passionate about new technologies and innovations that can change how
+      people live, and I aspire to create iOS apps that are user-friendly,
+      functional, and impactful. I am always eager to learn new skills and tools
+      and to share my knowledge and experience with others. I am a team player,
+      a problem solver, and a lifelong learner.
     styles:
       self:
         height: auto
