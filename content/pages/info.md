@@ -66,7 +66,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/ocbclogo.webp
+        url: /images/ocbc-bank-1692845706.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
