@@ -196,4 +196,5 @@ sections:
       text:
         textAlign: left
 metaTitle: akhlaq ahmad
+metaDescription: akhlaq ahmad
 ---
