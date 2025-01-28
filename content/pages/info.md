@@ -74,7 +74,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/ATT-Logo.png
+        url: /images/DirecTV_logo_new.svg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
