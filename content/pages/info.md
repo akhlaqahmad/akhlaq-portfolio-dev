@@ -13,15 +13,18 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ### I am an iOS Developer at OCBC Bank, where I lead the technical aspects
+      of native iOS app development for the OCBC Business financial app, a
+      platform that helps businesses manage their finances and transactions. I
+      work in an Agile environment with a cross-functional team, and I am
+      responsible for fixing bugs, adding new features, and launching features
+      in production.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/Screenshot 2024-06-15 at 12.53.20 PM.png
+      altText: Akhlaq Image
     styles:
       self:
         height: auto
@@ -63,15 +66,15 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/ocbc-bank-1692845706.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/hong_leong_bank_logo_freelogovectors.net_.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/DirecTV_logo_new.svg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
