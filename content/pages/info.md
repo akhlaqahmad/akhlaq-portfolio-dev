@@ -23,7 +23,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/Akhlaq-blue-bg.png
+      url: /images/Screenshot 2024-06-15 at 12.53.20 PM.png
       altText: Hero image
     styles:
       self:
