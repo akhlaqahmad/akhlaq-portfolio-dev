@@ -13,11 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## I am an iOS Developer at OCBC Bank, where I lead the technical aspects
+      of native iOS app development for the OCBC Business financial app, a
+      platform that helps businesses manage their finances and transactions. I
+      work in an Agile environment with a cross-functional team, and I am
+      responsible for fixing bugs, adding new features, and launching features
+      in production.
     media:
       type: ImageBlock
       url: /images/about.jpg
